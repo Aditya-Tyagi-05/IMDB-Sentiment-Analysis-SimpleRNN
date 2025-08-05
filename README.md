@@ -26,7 +26,7 @@ This is a simple web application built using **TensorFlow**, **Keras**, and **St
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/imdb-sentiment-analysis.git
+   git clone https://github.com/Aditya-Tyagi-05/imdb-sentiment-analysis-simplernn.git
    cd imdb-sentiment-analysis
    ```
 
@@ -65,9 +65,7 @@ This is a simple web application built using **TensorFlow**, **Keras**, and **St
 
 ---
 
-## 📷 Screenshot
 
-![Demo Screenshot](screenshot.png) <!-- Optional: add a screenshot of your app UI -->
 
 ---
 
@@ -85,4 +83,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## ✨ Author
 
-- [Your Name](https://github.com/your-username)
+- [Aditya-Tyagi-05](https://github.com/Aditya-Tyagi-05)
